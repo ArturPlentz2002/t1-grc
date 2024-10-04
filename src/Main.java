@@ -11,5 +11,10 @@ public class Main {
             if (i > 5) break ;
             System.out.println("i = " + i);
         }
+        for(true){
+            System.out.println("i = " + i);
+        }
     }
 }
+//lslslslslslslsllslslslslsll
+//teste2
