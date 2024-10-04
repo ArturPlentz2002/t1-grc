@@ -10,9 +10,8 @@ public class Main {
             i++;
             if (i > 5) break ;
             System.out.println("i = " + i);
+            //testestestestestest
         }
-        for(true){
-            System.out.println("i = " + i);
         }
     }
 }
